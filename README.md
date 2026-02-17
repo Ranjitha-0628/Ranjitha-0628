@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 - 🎓 **B.E. Information Science & Engineering** student at **Atria Institute of Technology, Bangalore** 
 - 🤖 Hands-on experience in **Data Analytics**, **Machine Learning**, and **AI-driven applications**
