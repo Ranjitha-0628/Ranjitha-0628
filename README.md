@@ -70,7 +70,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjitha-0628&label=Profile%20Views&color=6A0DAD&style=flat" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
