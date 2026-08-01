@@ -10,17 +10,6 @@
 
 ---
 
-##  About Me
-
-- 🎓 **B.E. Information Science & Engineering** student at **Atria Institute of Technology, Bangalore** 
-- 🤖 Hands-on experience in **Data Analytics**, **Machine Learning**, and **AI-driven applications**
-- 📊 Skilled in **Exploratory Data Analysis**, **Statistical Modeling**, and translating business problems into data-driven insights
-- 🔬 Published **2 research papers** — one in a Scopus-indexed journal on Air Quality Prediction, and another on 5G Network Security
-- 🎯 Seeking an **AI Engineer / Data Scientist Intern** role to contribute to enterprise-scale analytics and AI transformation
-- 📍 Bangalore, India
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
